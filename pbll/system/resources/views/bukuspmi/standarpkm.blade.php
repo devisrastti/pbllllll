@@ -1,0 +1,1 @@
+standarpm.blade.php
